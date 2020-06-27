@@ -1,3 +1,108 @@
+Package: com.sss136.compactappfolder
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/CompactAppfolder.deb
+Size: 180378
+MD5sum: 94f0e07c7c5ab7ba9d7e655898d61700
+SHA1: e2cbf7524bb5d3ee434623ba4ab8a1936db3f3c8
+SHA256: 24e21bf83da8a699b37225b78c70c74abdf56847e64d23eb2c84dca52c937ce6
+SHA512: 29aab82d2a2620fc4282a0f425635a4c0fa400a906f964666707dcdd51d84effe86e5bf125197b4da47f268ee6010ee01c94539b1c296eb12ce804e78f412ec1
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: CompactAppFolder
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.sss136.openapp
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/OpenApp.deb
+Size: 180686
+MD5sum: b4422a5b17ef86afeeb1112ee029be58
+SHA1: 3c30e008b1c040e50f01d9456356c9c96efb3a42
+SHA256: 1e114287bbd840e96c01a11ce5734e507bdc9c118cde3c7f2948493da4ad2b05
+SHA512: d177aae041b745bf60ffa691eae77e83ef0d0e2b5da333c667a92fda5d88c8886145c78d666eedb662b3519ec7654c55cce4cf18fbeab12a69784fd8099718d5
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: OpenApp
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.sss136.openappdockversiseways
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/OpenAppDock_ver_sideways.deb
+Size: 180868
+MD5sum: b3e0c449c48a66a6c23d5ff5981812c8
+SHA1: 448da5fdf7c9658fd4faf0076a514e1e3e9588bc
+SHA256: 659362fc74b1ab090d22661468757a20fdfbb9b136cbca06c5be7803cebffea8
+SHA512: d91bdbd3376ff19c30396b737b73e0933688b3136af82d1a0d01042dbc61b4ab9e28081b9c584d399bbc1293dba32ab91ef33ee55cebc7b84a4dc4d3c245f9e4
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: OpenAppDock_ver_sideways
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.sss136.openappdockvertical
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/OpenAppDock_ver_vertical.deb
+Size: 180864
+MD5sum: 4927b36f98d13a2ae301c9dccffd1aa2
+SHA1: 7769314dfc6ae600203bcc1b4464a59cceb527be
+SHA256: fb1d70406cc5ca0708762d3a5a8601fc052a73e781c15d53ac94f98c98db5832
+SHA512: de877dabf162c05e91d4bd17e4562bf605953151b05fcf6bdd72471e31aeb467817a9bd7986664169aa1de3157368c37e0332111fff908abd5d40a4987b11e03
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: OpenAppDock_ver_vertical
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.sss136.changeapps
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/changeapps.deb
+Size: 180384
+MD5sum: 8e421d0f95c4af9ec2dabfa46ec532df
+SHA1: 325274d2f565ab5ece5f692b6b82fb8f8e7b723b
+SHA256: 21e81f933e3fe0d0fd53675bf0180919624aec8e00d3e20b3e6648dd56ad8a11
+SHA512: c88fc222db6508e55b672f65c2ea97cf18bf15b1da7dde8f2d1638a82a0542231619c382c9323c1be216003f3cc4c9de82867ebcc6855b8a5b8bc45612a596fb
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: changeApps
+Depiction:
+Sponsor:
+dev: SsS136
+
 Package: com.shibu.gridstyle
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
