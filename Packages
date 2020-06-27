@@ -137,24 +137,6 @@ Description: Safari extension tool a12 non-compliant ios13, 12 confirmed operati
 Name: Safari Extender
 Author: shibuya
 
-Package: com.shibuya.sbextender
-Architecture: iphoneos-arm
-Version: 0.0.1-6+debug
-Section: Tweaks
-Maintainer: shibuya
-Installed-Size: 352
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shibuya.sbextender_0.0.1-6+debug_iphoneos-arm.deb
-Size: 71328
-MD5sum: c82f305c2be3cdb36a394632e950e302
-SHA1: 2446e1307caf1ec1ffff337c50af594a895b3b18
-SHA256: af1851a3c6545df8a1f27209bdac299b540bdeb4f8aca74c7337580a919e074c
-SHA512: 60cec1db78bbf9e1ab9ab033e38977bf6401ddebcd39ed7b51df6a29591c4fbf4c0bb5ab2d1d282e5528743e799e7ec37a4e8f418dfe292c61bf6961c9a55b98
-Description: You can customize Springboard
-Name: SB Extender (System Wide)
-Depiction: https://SsS136.github.io/descriptions/sbextender/index.html
-Author: shibuya
-
 Package: com.sss136.askunread
 Architecture: iphoneos-arm
 Version: 0.0.1-7+debug
@@ -208,40 +190,6 @@ Description: You can change the autolock seconds.supported a12
 Name: Autolock Custom
 Author: shibuya
 
-Package: com.sss136.easychangeapp
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: shibuya
-Installed-Size: 552
-Depends: mobilesubstrate
-Filename: ./debs/com.sss136.easychangeapp_0.0.1-1+debug_iphoneos-arm.deb
-Size: 46176
-MD5sum: 35134387687cfe553a43dac37d7e2bfb
-SHA1: 0d69a6ea8f759a06829887e00831b58c62c2c10d
-SHA256: 05119c9983bb7f6b5fb39cb254912f45ca788ec32923fbbbd87c6eeade06c677
-SHA512: 7874cd9f9007bab14386281c7fa7a766503eccbdd621f43944976bd38b7b54a59e34691903c032e9ab5198a1a80b6b865b31c05a9a52586c85ac2938be17ddfd
-Description: ステータスバー長押し、タップでアプリにとべます。
-Name: Easy Change App
-Author: shibuya
-
-Package: com.sss136.easypornhub
-Architecture: iphoneos-arm
-Version: 0.0.1-8+debug
-Section: Tweaks
-Maintainer: yuto shibuya
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.sss136.easypornhub_0.0.1-8+debug_iphoneos-arm.deb
-Size: 8310
-MD5sum: 10f60b97f9254668edd4f611c0968853
-SHA1: 3bd06b850d7d64074c2236797d70a8f015389b5b
-SHA256: 017a97f5248fc58cba4c25eea53cc14355e67db288cf7a82a61b674910689a7e
-SHA512: 56aaaaf0f19630208874d085e078e79f85599a3968389b7d63fc26c8c740b5fa0be86214bb5ed6bc0e2f80775608e4d08bbc7751b030d747f9af44fd599b0f39
-Description: You can go to pornhub by long pressing the status bar
-Name: Easy Pornhub
-Author: yuto shibuya
-
 Package: com.sss136.filzacodingpro
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -292,23 +240,6 @@ SHA256: 124f99b0bb2a9e0f341b9b2e34a2bca500c10d5b63a71e058be83b4011a4d3da
 SHA512: cab780f66c01f3dacdc1214ab8e2d7ed93e8f0d643d01a23d1dae8abdf092a8f514ec4df327f44c0bc7e4139825ed0dca1a685ddeeea8e3e873d97c139c916a5
 Description: システム全体をiPad風にします。アプリによってiPadになるものならないものがあります。
 Name: Pad System
-Author: shibuya
-
-Package: com.sss136.sixicondockxii
-Architecture: iphoneos-arm
-Version: 0.0.1-15+debug
-Section: Tweaks
-Maintainer: shibuya
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.sss136.sixicondockxii_0.0.1-15+debug_iphoneos-arm.deb
-Size: 7846
-MD5sum: 8878e655b3d8960f327f03230676a5a1
-SHA1: 52d9681a4cdef9536cf2fe00c08b6b16dc0cb296
-SHA256: b46740c30b6383224f3c9353808e577d5c81c067fcd745d6877601ffd69f283e
-SHA512: dfc95961aedc7e1c5367e0de9d5fe4933890e5f608996a5e052fa8483b4f06be8f56a8aad8fbefd64ce91c9397e0529cb12a0bbc061119e9ecf1bdb7d5c1bfe9
-Description: ドックを最大6つ配置できます。
-Name: SixIconDockXII
 Author: shibuya
 
 Package: com.sss136.status
