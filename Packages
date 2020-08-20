@@ -137,6 +137,23 @@ Description: Safari extension tool a12 non-compliant ios13, 12 confirmed operati
 Name: Safari Extender
 Author: shibuya
 
+Package: com.sss136.appcpuusageviewer
+Architecture: iphoneos-arm
+Version: 0.0.1-29+debug
+Section: Tweaks
+Maintainer: SsS136
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.appcpuusageviewer_0.0.1-29+debug_iphoneos-arm.deb
+Size: 82468
+MD5sum: cd74edda75d6713b7e33a125f86091cb
+SHA1: e776999b28ec88835f50078d1cf7467b9d5a2ede
+SHA256: 72a0b40a0e0fd6c3873465e453ffc55d92a0dfdb09f2e9eee4ef6f71c64a92d4
+SHA512: 85bb67110cd0688d87f3b4e517efca70abe61460141c93652912fa35d947981554fdf92a3083a7485f780ca7b23a2517547fd8765f1066e4cdaa7fc7eae39613
+Description: An awesome MobileSubstrate tweak!
+Name: App CPUusage Viewer
+Author: SsS136
+
 Package: com.sss136.askunread
 Architecture: iphoneos-arm
 Version: 0.0.1-7+debug
@@ -258,6 +275,22 @@ SHA512: fddfb788089246be0b73c4bdbb79c7504b8d598b26c2268b5435a70c29cbcf86c34b8d56
 Description: change status bar color
 Name: CusromStatusBar13
 Author: shibuya
+
+Package: com.sss136.tweakdeleter
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Utilities
+Maintainer: sss136
+Installed-Size: 800
+Filename: ./debs/com.sss136.tweakdeleter_0.0.1_iphoneos-arm.deb
+Size: 275786
+MD5sum: e8bb5b0995f3b3bbd62651d86762079b
+SHA1: c4e5746fcfdf74650ccc9ca2eaacadf16536838c
+SHA256: 6fda53874dbb948f9fe43c36555c7b6c14dd4573f4fbbcecdb147eed74062679
+SHA512: c97c7c30f3d382f58c8d63404ad7a4290dbaa29437c274bffad05af367f9fbdd746a683199756cd6d682b85831dda6da421aacfa12939c8e384301a1e0152ac5
+Description: An awesome application!
+Name: Tweak Deleter
+Author: sss136
 
 Package: com.sss136.ytallblacks
 Architecture: iphoneos-arm
