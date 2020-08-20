@@ -120,23 +120,6 @@ Description: スタイル変更
 Name: gridstyle
 Author: shibu
 
-Package: com.shibuya.safariextender
-Architecture: iphoneos-arm
-Version: 0.0.1-9+debug
-Section: Tweaks
-Maintainer: shibuya
-Installed-Size: 612
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shibuya.safariextender_0.0.1-9+debug_iphoneos-arm.deb
-Size: 64524
-MD5sum: 2badd74766efd3cd1a9e356ec25ae8d5
-SHA1: 7086d2e3c582c4018113d117b02619e4cc61f799
-SHA256: 732537b432ed175da92538bce86ced74ffa23a7d0a54ef5dcf05b588e2924662
-SHA512: dac6bd7b33a641988eef57e2f265acbfd03abb8ce55423060e080db9024b6e0ffd05f4516722d3274665bee35efbaf09df3926b23bd5067cd41005102b6d5cdd
-Description: Safari extension tool a12 non-compliant ios13, 12 confirmed operation
-Name: Safari Extender
-Author: shibuya
-
 Package: com.sss136.appcpuusageviewer
 Architecture: iphoneos-arm
 Version: 0.0.1-29+debug
@@ -291,38 +274,4 @@ SHA512: c97c7c30f3d382f58c8d63404ad7a4290dbaa29437c274bffad05af367f9fbdd746a6831
 Description: An awesome application!
 Name: Tweak Deleter
 Author: sss136
-
-Package: com.sss136.ytallblacks
-Architecture: iphoneos-arm
-Version: 0.0.1-6+debug
-Section: Tweaks
-Maintainer: shibuya
-Installed-Size: 160
-Depends: mobilesubstrate
-Filename: ./debs/com.sss136.ytallblacks_0.0.1-6+debug_iphoneos-arm.deb
-Size: 11316
-MD5sum: 2628ee5107696f2d14edc4f66e33bcdf
-SHA1: 97b3434cf3d510abd80ce0dff0f5125b2e6e6178
-SHA256: 404fc0e732679bc8ef9215342f5da857920162534c55807b8a8cc3ef5a55a598
-SHA512: fc08badf943f064403901da4bdd3ef5661290789f93e36747341961ced7a34fe3e5e714ba7b0b8e064949b96113e53d0f529f3f30795f4742af1718c1f58e3d3
-Description: An awesome MobileSubstrate tweak!
-Name: YTAllBlacks
-Author: shibuya
-
-Package: org.sss136.youtubeextender
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: shibuya
-Installed-Size: 316
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/org.sss136.youtubeextender_0.0.1-1+debug_iphoneos-arm.deb
-Size: 30722
-MD5sum: 940cb46fa117f8d8db029ce79f471fbc
-SHA1: 817e5aaa9fcfce38dea85386aee446295e73b5f9
-SHA256: 00c4cdbbe69971f3eff6471b283bebf90a3cd80f5e40f783098030cdd2871548
-SHA512: 2f5f3632a79f403a36f2cb0d4764387f4d16eb643b1eea2c2d4325094d01f52cb339d940126ee91b67dec28289ded1fd2ea6d22dcba162fa5d41171d3a4c2e13
-Description: Youtube Extend Tool
-Name: Youtube Extender
-Author: shibuya
 
