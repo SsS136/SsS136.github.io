@@ -275,3 +275,20 @@ Description: An awesome application!
 Name: Tweak Deleter
 Author: sss136
 
+Package: com.sss136.ytrevivedislike
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Ryu
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sss136.ytrevivedislike_0.0.1-1+debug_iphoneos-arm.deb
+Size: 2180
+MD5sum: 78af8dc50a92fc0fc502d22e9849a6e9
+SHA1: a2a875171a27d2f418dc65cacd24264b1b53a7f8
+SHA256: 4ea89e1e2d2d2c496e93bfc8955071a94fad5536865a706c8b5e858404350cdc
+SHA512: 48a3e732ce2037763733e01dfee2910bd73bc45d923ae1ef180d9a9e2473f83b8e6b799e03cd5f4c690fa85bec4aba24dc3bd2a5eb56451a361f5601945d77af
+Description: This is a tweak to bring back the number of low ratings on Youtube!
+Name: YTReviveDislike
+Author: Ryu
+
