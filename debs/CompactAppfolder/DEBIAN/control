@@ -1,0 +1,14 @@
+Author: SsS136
+Maintainer: SsS136
+Name: CompactAppFolder
+Package: com.sss136.compactappfolder
+Depends: firmware (>= 7.0)
+Section: Themes
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: XenHTML's wighet
+Depiction: 
+Homepage: ホームページ
+Sponsor: 
+dev: SsS136
+Tag: purpose::extension

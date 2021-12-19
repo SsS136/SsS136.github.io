@@ -1,0 +1,277 @@
+Package: com.sss136.compactappfolder
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/CompactAppfolder.deb
+Size: 180378
+MD5sum: 94f0e07c7c5ab7ba9d7e655898d61700
+SHA1: e2cbf7524bb5d3ee434623ba4ab8a1936db3f3c8
+SHA256: 24e21bf83da8a699b37225b78c70c74abdf56847e64d23eb2c84dca52c937ce6
+SHA512: 29aab82d2a2620fc4282a0f425635a4c0fa400a906f964666707dcdd51d84effe86e5bf125197b4da47f268ee6010ee01c94539b1c296eb12ce804e78f412ec1
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: CompactAppFolder
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.sss136.openapp
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/OpenApp.deb
+Size: 180686
+MD5sum: b4422a5b17ef86afeeb1112ee029be58
+SHA1: 3c30e008b1c040e50f01d9456356c9c96efb3a42
+SHA256: 1e114287bbd840e96c01a11ce5734e507bdc9c118cde3c7f2948493da4ad2b05
+SHA512: d177aae041b745bf60ffa691eae77e83ef0d0e2b5da333c667a92fda5d88c8886145c78d666eedb662b3519ec7654c55cce4cf18fbeab12a69784fd8099718d5
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: OpenApp
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.sss136.openappdockversiseways
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/OpenAppDock_ver_sideways.deb
+Size: 180868
+MD5sum: b3e0c449c48a66a6c23d5ff5981812c8
+SHA1: 448da5fdf7c9658fd4faf0076a514e1e3e9588bc
+SHA256: 659362fc74b1ab090d22661468757a20fdfbb9b136cbca06c5be7803cebffea8
+SHA512: d91bdbd3376ff19c30396b737b73e0933688b3136af82d1a0d01042dbc61b4ab9e28081b9c584d399bbc1293dba32ab91ef33ee55cebc7b84a4dc4d3c245f9e4
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: OpenAppDock_ver_sideways
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.sss136.openappdockvertical
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/OpenAppDock_ver_vertical.deb
+Size: 180864
+MD5sum: 4927b36f98d13a2ae301c9dccffd1aa2
+SHA1: 7769314dfc6ae600203bcc1b4464a59cceb527be
+SHA256: fb1d70406cc5ca0708762d3a5a8601fc052a73e781c15d53ac94f98c98db5832
+SHA512: de877dabf162c05e91d4bd17e4562bf605953151b05fcf6bdd72471e31aeb467817a9bd7986664169aa1de3157368c37e0332111fff908abd5d40a4987b11e03
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: OpenAppDock_ver_vertical
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.sss136.changeapps
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: SsS136
+Depends: firmware (>= 7.0)
+Filename: ./debs/changeapps.deb
+Size: 180384
+MD5sum: 8e421d0f95c4af9ec2dabfa46ec532df
+SHA1: 325274d2f565ab5ece5f692b6b82fb8f8e7b723b
+SHA256: 21e81f933e3fe0d0fd53675bf0180919624aec8e00d3e20b3e6648dd56ad8a11
+SHA512: c88fc222db6508e55b672f65c2ea97cf18bf15b1da7dde8f2d1638a82a0542231619c382c9323c1be216003f3cc4c9de82867ebcc6855b8a5b8bc45612a596fb
+Homepage: ホームページ
+Description: XenHTML's wighet
+Tag: purpose::extension
+Author: SsS136
+Name: changeApps
+Depiction:
+Sponsor:
+dev: SsS136
+
+Package: com.shibu.gridstyle
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: shibu
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.shibu.gridstyle_0.0.1-1+debug_iphoneos-arm.deb
+Size: 11902
+MD5sum: bb63f6c394a8eb01d9a4a7a3cc01bff6
+SHA1: 00a8b0ae0385b3d4c196f4c8514fc43a7b44725d
+SHA256: d249098b929755d86f49e1b2b34e14e8fb7c95e1d0de318db502d971bdb44529
+SHA512: 46497faa2c900c31b56e2d3abc9a87cb91a8d5bfb07844e6cef4e6b80e3cc759e71f7825c3e8feb76ca788ae16de56bdc46a75566965bcb9920dfd0827d342b7
+Description: スタイル変更
+Name: gridstyle
+Author: shibu
+
+Package: com.sss136.appcpuusageviewer
+Architecture: iphoneos-arm
+Version: 0.0.1-29+debug
+Section: Tweaks
+Maintainer: SsS136
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.appcpuusageviewer_0.0.1-29+debug_iphoneos-arm.deb
+Size: 82468
+MD5sum: cd74edda75d6713b7e33a125f86091cb
+SHA1: e776999b28ec88835f50078d1cf7467b9d5a2ede
+SHA256: 72a0b40a0e0fd6c3873465e453ffc55d92a0dfdb09f2e9eee4ef6f71c64a92d4
+SHA512: 85bb67110cd0688d87f3b4e517efca70abe61460141c93652912fa35d947981554fdf92a3083a7485f780ca7b23a2517547fd8765f1066e4cdaa7fc7eae39613
+Description: An awesome MobileSubstrate tweak!
+Name: App CPUusage Viewer
+Author: SsS136
+
+Package: com.sss136.askunread
+Architecture: iphoneos-arm
+Version: 0.0.1-7+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 328
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.askunread_0.0.1-7+debug_iphoneos-arm.deb
+Size: 53582
+MD5sum: 7612f7c7998668d1d1d008b60624ecea
+SHA1: b0c5d421893b680432bc8a70f04cd4d18b1876a1
+SHA256: f2876e7fd331c45b95398271170af1694a5810d698a74e97fe8ac99ade08d595
+SHA512: 793f968d705cb4dc175a860d5c61830221f76e112c707db37576abdb80324c4c72dcdb1769fcb4600e2025d72896b4dd1097a65c2c7426f0521cc169d7b9806a
+Description: An awesome MobileSubstrate tweak!
+Name: AskUnread?
+Depiction: https://SsS136.github.io/descriptions/askunread/index.html
+Author: shibuya
+
+Package: com.sss136.askunread
+Architecture: iphoneos-arm
+Version: 0.0.1-8+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 328
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.askunread_0.0.1-8+debug_iphoneos-arm.deb
+Size: 53568
+MD5sum: 8063b3bf441c0d8e222c4bf63c7b9da7
+SHA1: b7cd92fd47b7f56657b50602e245a81b1e58e69b
+SHA256: 9cf38ac56e5b4ab70a50850d7aaf4461fb593f446155e0407b77948585865c4e
+SHA512: c63372bbdc2f205fe30e901668be15228a1043f74346d17f8db781d356a2db08a0fd6ffbd67d2c611caa88f2d2910db61296b42cf314e289d6dac72eed20b73d
+Description: An awesome MobileSubstrate tweak!
+Name: AskUnread?
+Depiction: https://SsS136.github.io/descriptions/askunread/index.html
+Author: shibuya
+
+Package: com.sss136.autolockcustom
+Architecture: iphoneos-arm
+Version: 0.0.1-11+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.autolockcustom_0.0.1-11+debug_iphoneos-arm.deb
+Size: 56114
+MD5sum: 2677959b38924f357a669d2c3bd93802
+SHA1: 190c3f0ceca2f05136ce12e893beabbf237471da
+SHA256: 99fbda6238a1f9c4291b3fd12cf8730a213601e22b76a5e047950655d7c4774a
+SHA512: 3143dc460426a5bb27cdb6d80daab8d26bf353e40afb4611327f4fea4e8084d8a73b1af91e05abf78cd4cbb14c92992e02506440c4a4eec48fff593f714bc9a8
+Description: You can change the autolock seconds.supported a12
+Name: Autolock Custom
+Author: shibuya
+
+Package: com.sss136.filzacodingpro
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: SsS136
+Installed-Size: 744
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.filzacodingpro_0.0.1-1+debug_iphoneos-arm.deb
+Size: 172908
+MD5sum: a683c52c287ca24ddff6e5eb56415213
+SHA1: 810046ab37dfd0c196d66441ae44dda534060829
+SHA256: 0742179ce46d388bb60f89fb07bc502c1111d4f3172d4b7c3da38c73704df2a3
+SHA512: 96d6f16daf1727403f2453e9cddb11ff54ed7316f3a4eb80fa5575192e3cee53537bd9869fd8dcc94dafd64f7471ebce156dd74022186347d285e0c12b9991af
+Description: Filza for programer
+Name: Filza Coding Pro
+Depiction: https://SsS136.github.io/descriptions/FilzaCodingPro/index.html
+Author: SsS136
+
+Package: com.sss136.linecustomizer
+Architecture: iphoneos-arm
+Version: 0.0.1-7+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.sss136.linecustomizer_0.0.1-7+debug_iphoneos-arm.deb
+Size: 28828
+MD5sum: b8fa3fa73159677370d1b89eaffe363e
+SHA1: 6949f2fdd0fc6f7c8cce48742c091fbb648c34d3
+SHA256: 35db1e58ed48d58a878f6fbdb7622e2834a332e679ae874c8ebd1e9c3cda83fc
+SHA512: aded09c3aef01eb6b8a93d911d35ec0e03c59de0480c0ab5d1d92f76e149be9249866731a8c2b6e2996ee691b268536e7cba19591e49674dcb7c12276150f80f
+Description: An awesome MobileSubstrate tweak!
+Name: LINE Customizer(CCSupport)
+Author: shibuya
+
+Package: com.sss136.padsystem
+Architecture: iphoneos-arm
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.padsystem_0.0.1-2+debug_iphoneos-arm.deb
+Size: 5298
+MD5sum: 1fb375f7116935a554632dc67f2a663e
+SHA1: 8537dd8dd734ec4fd7f72bd941bb820ce84b25cf
+SHA256: 124f99b0bb2a9e0f341b9b2e34a2bca500c10d5b63a71e058be83b4011a4d3da
+SHA512: cab780f66c01f3dacdc1214ab8e2d7ed93e8f0d643d01a23d1dae8abdf092a8f514ec4df327f44c0bc7e4139825ed0dca1a685ddeeea8e3e873d97c139c916a5
+Description: システム全体をiPad風にします。アプリによってiPadになるものならないものがあります。
+Name: Pad System
+Author: shibuya
+
+Package: com.sss136.status
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: shibuya
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: ./debs/com.sss136.status_0.0.1-1+debug_iphoneos-arm.deb
+Size: 24018
+MD5sum: 136a5759e50e8729687bf4402047d1e8
+SHA1: 64c6bbf88b8a807433db90138fc9f555e9f5e075
+SHA256: 9431132a8f7e5099a3efad6a178b75e0ee481d5b22e1c097a591d31248f69e78
+SHA512: fddfb788089246be0b73c4bdbb79c7504b8d598b26c2268b5435a70c29cbcf86c34b8d56767b442bfab9db90b2fb74a753c5dec063e08b12541bcbed85f0f978
+Description: change status bar color
+Name: CusromStatusBar13
+Author: shibuya
+
+Package: com.sss136.tweakdeleter
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Utilities
+Maintainer: sss136
+Installed-Size: 800
+Filename: ./debs/com.sss136.tweakdeleter_0.0.1_iphoneos-arm.deb
+Size: 275786
+MD5sum: e8bb5b0995f3b3bbd62651d86762079b
+SHA1: c4e5746fcfdf74650ccc9ca2eaacadf16536838c
+SHA256: 6fda53874dbb948f9fe43c36555c7b6c14dd4573f4fbbcecdb147eed74062679
+SHA512: c97c7c30f3d382f58c8d63404ad7a4290dbaa29437c274bffad05af367f9fbdd746a683199756cd6d682b85831dda6da421aacfa12939c8e384301a1e0152ac5
+Description: An awesome application!
+Name: Tweak Deleter
+Author: sss136
+

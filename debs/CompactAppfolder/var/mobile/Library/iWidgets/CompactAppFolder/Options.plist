@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>default</key>
+		<string>Youtube</string>
+		<key>label</key>
+		<string>First App</string>
+		<key>name</key>
+		<string>someApp1</string>
+		<key>options</key>
+		<dict>
+			<key>Musicfm</key>
+			<string>com.violinmusicfm.ios.fm3</string>
+			<key>Safari</key>
+			<string>com.apple.mobilesafari</string>
+			<key>Youtube</key>
+			<string>com.google.ios.youtube</string>
+			<key>instagram</key>
+			<string>com.burbn.instagram</string>
+			<key>twitter</key>
+			<string>com.atebits.Tweetie2</string>
+          <key>line</key>
+          <string>jp.naver.line</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+
+
+
+	<dict>
+		<key>default</key>
+		<string>Youtube</string>
+		<key>label</key>
+		<string>Second App</string>
+		<key>name</key>
+		<string>someApp2</string>
+		<key>options</key>
+		<dict>
+			<key>Musicfm</key>
+			<string>com.violinmusicfm.ios.fm3</string>
+			<key>Safari</key>
+			<string>com.apple.mobilesafari</string>
+			<key>Youtube</key>
+			<string>com.google.ios.youtube</string>
+			<key>instagram</key>
+			<string>com.burbn.instagram</string>
+			<key>twitter</key>
+			<string>com.atebits.Tweetie2</string>
+          <key>line</key>
+          <string>jp.naver.line</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+
+
+
+	<dict>
+		<key>default</key>
+		<string>Youtube</string>
+		<key>label</key>
+		<string>Third App</string>
+		<key>name</key>
+		<string>someApp3</string>
+		<key>options</key>
+		<dict>
+			<key>Musicfm</key>
+			<string>com.violinmusicfm.ios.fm3</string>
+			<key>Safari</key>
+			<string>com.apple.mobilesafari</string>
+			<key>Youtube</key>
+			<string>com.google.ios.youtube</string>
+			<key>instagram</key>
+			<string>com.burbn.instagram</string>
+			<key>twitter</key>
+			<string>com.atebits.Tweetie2</string>
+          <key>line</key>
+          <string>jp.naver.line</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+
+
+
+</array>
+</plist>

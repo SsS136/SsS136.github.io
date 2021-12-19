@@ -1,0 +1,222 @@
+ <!DOCTYPE html>
+ <html lang="ja" dir="ltr">
+   <head>
+     <meta charset="utf-8">
+
+     <title></title>
+
+     <style>
+       *{
+       	padding: 0;
+       	margin: 0;
+       	font-family: helvetica;
+          transition: 0.5s;
+       }
+       body{
+       }
+
+       .container{
+          transition: 0.5s;
+       }
+
+       .c_c
+       {
+          width:30px;
+          height:30px;
+          transition: 0.5s;
+       }
+
+       .o_c
+       {
+          width:120px;
+          height:30px;
+          transition: 0.5s;
+       }
+
+       .base{
+       	position: absolute;
+       	border-radius: 8px;
+       	background-color: #fafafa;
+       	box-shadow: 0 3px 2px rgba(0,0,0,0.2);
+          transition: 0.5s;
+       }
+
+       .c_b
+       {
+          width:30px;
+          height:30px;
+          transition: 0.5s;
+       }
+
+       .o_b
+       {
+          width:120px;
+          height:30px;
+          transition: 0.5s;
+       }
+
+       .base div{
+       	position: absolute;
+          transition: 0.5s;
+       }
+
+      #list1
+      {
+        top:4px;
+        left: 4px;
+        width:22px;
+        height: 22px;
+        border-radius: 4px;
+        background-size: cover;
+        background-image: url('5.png');
+        transition: 0.5s;
+      }
+
+      #list2
+      {
+        top:4px;
+        left: 34px;
+        width:22px;
+        height: 22px;
+        border-radius: 4px;
+        background-size: cover;
+        background-image: url('5.png');
+        transition: 0.5s;
+      }
+
+      #list3
+      {
+        top:4px;
+        left: 64px;
+        width:22px;
+        height: 22px;
+        border-radius: 4px;
+        background-size: cover;
+        background-image: url('5.png');
+        transition: 0.5s;
+      }
+
+      #compacter
+      {
+        width:22px;
+        height:22px;
+        top:4px;
+        /*left:34px;*/
+        border-radius:50px;
+        background: black;
+        z-index:1000;
+      }
+
+      .compact
+      {
+        left:4px;
+        transition: 0.5s;
+      }
+
+      .open
+      {
+        left:94px;
+        transition: 0.5s;
+      }
+
+      .openlist
+      {
+        transition: 0.5s;
+      }
+
+      .hidden
+      {
+        display: none;
+        transition: 0.5s;
+      }
+
+     </style>
+   </head>
+   <body>
+     <div id="main" class="container c_c">
+       <div id="box" class="base c_b">
+
+         <div id="compacter" class="compact"></div>
+
+         <div id="list1" class="hidden"></div>
+         <div id="list2" class="hidden"></div>
+         <div id="list3" class="hidden"></div>
+
+       </div>
+     </div>
+
+     <script type="text/javascript">
+      var doc = document;
+      var appDiv = doc.getElementById('app');
+
+      var list1Div = doc.getElementById('list1');
+
+      var list2Div = doc.getElementById('list2');
+
+      var list3Div = doc.getElementById('list3');
+
+      var change = doc.getElementById('compacter');
+
+      var container = doc.getElementById("main");
+
+      var base = doc.getElementById("box");
+
+      change.addEventListener('touchstart', function(){
+
+    list1Div.classList.toggle("hidden");
+
+    list2Div.classList.toggle("hidden");
+
+    list3Div.classList.toggle("hidden");
+
+    list1Div.classList.toggle("openlist");
+
+    list2Div.classList.toggle("openlist");
+
+    list3Div.classList.toggle("openlist");
+
+    change.classList.toggle("compact");
+
+    change.classList.toggle("open");
+
+    container.classList.toggle("c_c");
+
+    container.classList.toggle("o_c");
+
+    base.classList.toggle("c_b");
+
+    base.classList.toggle("o_b");
+
+    });
+
+      list1Div.addEventListener('touchend', function(){
+        window.location = 'xeninfo:openapp:' + someApp1;
+      });
+
+      var imageurl1 = "url(img/" + someApp1 + ".jpg)";
+
+      list1Div.style.backgroundImage = imageurl1;
+
+
+
+list2Div.addEventListener('touchend', function(){
+        window.location = 'xeninfo:openapp:' + someApp2;
+      });
+
+      var imageurl2 = "url(img/" + someApp2 + ".jpg)";
+
+      list2Div.style.backgroundImage = imageurl2;
+
+
+
+list3Div.addEventListener('touchend', function(){
+        window.location = 'xeninfo:openapp:' + someApp3;
+      });
+
+      var imageurl3 = "url(img/" + someApp3 + ".jpg)";
+
+      list3Div.style.backgroundImage = imageurl3;
+
+    </script>
+   </body>
+ </html>
